@@ -1,4 +1,4 @@
-package com.roopika.cloud.config;
+package com.bits.scalableservices.cloud.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
