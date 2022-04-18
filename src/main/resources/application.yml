@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/BITS-Student-Management-System/config-server-configurations/
+          uri: https://github.com/BITS-Student-Management-System/config-server-configurations
           clone-on-start: true
 
